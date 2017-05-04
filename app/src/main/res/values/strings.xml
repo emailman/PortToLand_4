@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PortToLand</string>
+    <string name="percentage">Percentage</string>
+    <string name="convert">Convert</string>
+    <string name="enter_number">Enter a Number to Convert</string>
+    <string name="start0">0</string>
+</resources>
